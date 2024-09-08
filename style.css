@@ -426,7 +426,7 @@ section .title::after {
 }
 
 .skills-content .right .html::before {
-    width: 90%;
+    width: 70%;
 }
 
 .skills-content .right .css::before {
@@ -434,7 +434,7 @@ section .title::after {
 }
 
 .skills-content .right .js::before {
-    width: 80%;
+    width: 50%;
 }
 
 .skills-content .right .php::before {
@@ -444,6 +444,19 @@ section .title::after {
 .skills-content .right .mysql::before {
     width: 70%;
 }
+
+.skills-content .right .python::before {
+    width: 80%;
+}
+.skills-content .right .flask::before {
+    width: 78%;
+}
+
+.skills-content .right .django::before {
+    width: 80%;
+}
+
+
 
 /* teams section styling */
 .teams .title::after {
