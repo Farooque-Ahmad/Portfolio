@@ -456,19 +456,19 @@ section .title::after {
     width: 80%;
 }
 
-.skills-content .right .JAVA::before {
+.skills-content .right .java::before {
     width: 85%;
 }
-.skills-content .right .JSP::before {
+.skills-content .right .jsp::before {
     width: 80%;
 }
-.skills-content .right .Hibernate::before {
+.skills-content .right .hibernate::before {
     width: 85%;
 }
-.skills-content .right .JDBC::before {
+.skills-content .right .jdbc::before {
     width: 87%;
 }
-.skills-content .right .Servlet::before {
+.skills-content .right .servlet::before {
     width: 87%;
 }
 
@@ -833,4 +833,5 @@ footer span a:hover {
         line-height: 38px;
     }
 }
+
 
